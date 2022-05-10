@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.743" height="33.964" viewBox="0 0 58.743 33.964">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c053" stop-opacity="0.153"/>
+      <stop offset="1" stop-color="#00c053" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Positive_Graph" data-name="Positive Graph" transform="translate(0.328 0.964)">
+    <path id="Path_2_Copy_5" data-name="Path 2 Copy 5" d="M0,21l8.779-7.649,8.011,3.824L28.338,7.945,34.815,11.2l5.928-6.546,6.578,1.111L50.432,0,58,11.2" fill="none" stroke="#00c053" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2_Copy_6" data-name="Path 2 Copy 6" d="M0,20.541,8.779,13.06,16.79,16.8,28.338,7.771l6.477,3.188,5.928-6.4,6.578,1.087L50.432,0,58,10.959V33H0Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

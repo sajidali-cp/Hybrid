@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.743" height="33.964" viewBox="0 0 58.743 33.964">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e23e47" stop-opacity="0.275"/>
+      <stop offset="1" stop-color="#e23e47" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Negative_Graph" data-name="Negative Graph" transform="translate(0.414 0.964)">
+    <path id="Path_2_Copy_5" data-name="Path 2 Copy 5" d="M58,21l-8.779-7.649L41.21,17.176,29.662,7.945,23.185,11.2,17.257,4.657,10.679,5.769,7.568,0,0,11.2" fill="none" stroke="#e23e47" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2_Copy_6" data-name="Path 2 Copy 6" d="M58,20.541,49.221,13.06,41.21,16.8,29.662,7.771l-6.477,3.188-5.928-6.4L10.679,5.643,7.568,0,0,10.959V33H58Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

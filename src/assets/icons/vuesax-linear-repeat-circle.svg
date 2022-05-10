@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="29" height="29" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="vuesax_linear_repeat-circle" data-name="vuesax/linear/repeat-circle" clip-path="url(#clip-path)">
+    <g id="vuesax_linear_repeat-circle-2" data-name="vuesax/linear/repeat-circle" transform="translate(-2 -2)">
+      <g id="Group" transform="translate(10.313 9.157)">
+        <path id="Vector" d="M0,0H10.175a2.2,2.2,0,0,1,2.2,2.2V4.634" transform="translate(0 2.31)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M2.324,0,0,2.31,2.324,4.634" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M12.375,4.634H2.2A2.2,2.2,0,0,1,0,2.434V0" transform="translate(0 7.741)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M0,4.634l2.324-2.31L0,0" transform="translate(10.051 10.051)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <g id="Group_15400" data-name="Group 15400">
+        <path id="vuesax_linear_repeat-circle-3" data-name="vuesax/linear/repeat-circle" d="M27.5,13.75A13.75,13.75,0,1,1,13.75,0,13.75,13.75,0,0,1,27.5,13.75Z" transform="translate(2.75 2.75)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

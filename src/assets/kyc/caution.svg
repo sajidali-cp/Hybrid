@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.432" height="20.434" viewBox="0 0 20.432 20.434">
+  <g id="caution" transform="translate(-0.462 0)">
+    <path id="Path_1" data-name="Path 1" d="M17.707,20.434H3.648A3.187,3.187,0,0,1,.8,15.822L7.827,1.763a3.187,3.187,0,0,1,5.7,0l7.029,14.059a3.187,3.187,0,0,1-2.85,4.612Zm0,0" fill="#e23e47"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(10.025 4.953)">
+      <path id="Path_2" data-name="Path 2" d="M241.551,128.2a.653.653,0,0,1,.652.652v7.83a.653.653,0,1,1-1.305,0v-7.83A.653.653,0,0,1,241.551,128.2Zm0,0" transform="translate(-240.898 -128.203)" fill="#fff"/>
+      <path id="Path_3" data-name="Path 3" d="M240.9,384.2H242.2v1.3H240.9Zm0,0" transform="translate(-240.898 -373.763)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

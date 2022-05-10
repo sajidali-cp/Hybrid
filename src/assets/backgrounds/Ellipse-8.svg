@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246.87" height="228.455" viewBox="0 0 246.87 228.455">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.251"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="Ellipse_8" data-name="Ellipse 8" d="M100.921,0A100.921,100.921,0,0,1,201.843,100.921c0,55.737-201.843,55.737-201.843,0A100.921,100.921,0,0,1,100.921,0Z" transform="matrix(-0.845, -0.534, 0.534, -0.845, 170.655, 228.455)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="repeat-circle" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Group" transform="translate(10.312 9.157)">
+    <path id="Vector" d="M0,0H10.175a2.2,2.2,0,0,1,2.2,2.2V4.634" transform="translate(0 2.31)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M2.324,0,0,2.31,2.324,4.634" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M12.375,4.634H2.2A2.2,2.2,0,0,1,0,2.434V0" transform="translate(0 7.741)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-4" data-name="Vector" d="M0,4.634l2.324-2.31L0,0" transform="translate(10.051 10.051)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Vector-5" data-name="Vector" d="M27.5,13.75A13.75,13.75,0,1,1,13.75,0,13.75,13.75,0,0,1,27.5,13.75Z" transform="translate(2.75 2.75)" fill="none" stroke="#b9b9b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-6" data-name="Vector" d="M0,0H33V33H0Z" transform="translate(33 33) rotate(180)" fill="none" opacity="0"/>
+</svg>

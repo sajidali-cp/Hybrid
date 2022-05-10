@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <g id="swap-icon" transform="translate(-0.968 -0.968)">
+    <g id="Oval" transform="translate(0.968 0.968)" fill="none" stroke="#00aeef" stroke-miterlimit="10" stroke-width="1">
+      <circle cx="36" cy="36" r="36" stroke="none"/>
+      <circle cx="36" cy="36" r="35.5" fill="none"/>
+    </g>
+    <g id="Icon" transform="translate(16.444 14.46)">
+      <path id="XMLID_17_" d="M39.528,9.411H6.427l6.2-6.2A1.882,1.882,0,1,0,9.963.551L.551,9.963a1.882,1.882,0,0,0,0,2.662l9.411,9.411a1.882,1.882,0,1,0,2.662-2.662l-6.2-6.2h33.1a1.882,1.882,0,0,0,0-3.765Z" fill="#00aeef"/>
+      <path id="XMLID_18_" d="M31.447.551a1.882,1.882,0,1,0-2.662,2.662l6.2,6.2H1.882a1.882,1.882,0,0,0,0,3.765h33.1l-6.2,6.2a1.882,1.882,0,1,0,2.662,2.662l9.411-9.411a1.882,1.882,0,0,0,0-2.662Z" transform="translate(0 20.807)" fill="#00aeef"/>
+    </g>
+  </g>
+</svg>

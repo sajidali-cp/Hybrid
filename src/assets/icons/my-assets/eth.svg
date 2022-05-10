@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="eth" transform="translate(-350 -896)">
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="46" height="46" rx="23" transform="translate(350 896)" fill="#00aeef"/>
+    <g id="vuesax_linear_ethereum-classic-_etc_" data-name="vuesax/linear/ethereum-classic-(etc)" transform="translate(-634.817 691.182)">
+      <g id="ethereum-classic-_etc_" data-name="ethereum-classic-(etc)" transform="translate(992 213)">
+        <path id="BG_1" data-name="BG 1" d="M0,0H29.635V29.635H0Z" fill="none"/>
+        <path id="Vector" d="M.7,8.767,6.626,6.174a1.044,1.044,0,0,1,.864,0l5.927,2.593a.544.544,0,0,0,.617-.864L7.86.37a.926.926,0,0,0-1.482,0L.2,7.9C-.289,8.4.2,9.014.7,8.767Z" transform="translate(7.822 2.47)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M.7.056,6.626,2.649a1.044,1.044,0,0,0,.864,0L13.417.056a.544.544,0,0,1,.617.864L7.86,8.453a.926.926,0,0,1-1.482,0L.2.921C-.289.427.2-.191.7.056Z" transform="translate(7.822 18.342)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M6.421,0,0,3.21l6.421,3.21,6.421-3.21Z" transform="translate(8.397 11.607)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H29.635V29.635H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

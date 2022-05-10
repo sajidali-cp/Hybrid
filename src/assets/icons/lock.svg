@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.218" height="30.02" viewBox="0 0 27.218 30.02">
+  <g id="lock" transform="translate(1 1)">
+    <rect id="Rectangle" width="25.218" height="15.411" rx="2" transform="translate(0 12.609)" fill="none" stroke="#77838f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path" d="M0,12.609V7A7,7,0,1,1,14.01,7v5.6" transform="translate(5.604 0)" fill="none" stroke="#77838f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

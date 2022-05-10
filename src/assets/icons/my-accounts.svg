@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.878" height="16.878" viewBox="0 0 16.878 16.878">
+  <g id="my-accounts" transform="translate(1 1)">
+    <rect id="Rectangle" width="9.671" height="9.671" rx="2" transform="translate(5.207 5.207)" fill="none" stroke="#77838f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path" d="M2.232,9.671H1.488A1.488,1.488,0,0,1,0,8.183v-6.7A1.488,1.488,0,0,1,1.488,0h6.7A1.488,1.488,0,0,1,9.671,1.488v.744" transform="translate(0)" fill="none" stroke="#77838f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

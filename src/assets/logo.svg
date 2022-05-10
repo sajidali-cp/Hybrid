@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 344.3 69.03">
+<defs>
+<style>
+.cls-1{font-size:61.85px;fill:#012251;font-family:Montserrat-Bold, Montserrat;font-weight:700;}.cls-2{letter-spacing:-0.01em;}.cls-3{fill:url(#linear-gradient);}
+</style>
+<linearGradient id="linear-gradient" x1="-14.14" y1="-42.54" x2="59.83" y2="66.68" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#00aeef"/>
+<stop offset="0.15" stop-color="#02a8eb"/>
+<stop offset="0.34" stop-color="#0898df"/>
+<stop offset="0.56" stop-color="#127dcb"/>
+<stop offset="0.79" stop-color="#2058af"/>
+<stop offset="1" stop-color="#2e3192"/>
+</linearGradient>
+</defs>
+<g id="Layer_2" data-name="Layer 2">
+<g id="Layer_1-2" data-name="Layer 1">
+<text class="cls-1" transform="translate(88.78 52.58)">
+H<tspan class="cls-2" x="49.98" y="0">Y</tspan><tspan x="91.36" y="0">BRID</tspan>
+</text>
+<path class="cls-3" d="M68.81,13.45v6.26l-5.28,5.34a5.84,5.84,0,0,0,0,8.25l5.26,5.27v6.25L56.31,57.34V39.51a4.11,4.11,0,0,0-4.12-4.12H16.62a4.11,4.11,0,0,0-4.12,4.12V57.34L0,44.82V38.57L5.26,33.3a5.85,5.85,0,0,0,0-8.25L0,19.71V13.45L12.5.94V18.68a4.12,4.12,0,0,0,4.12,4.13H52.19a4.12,4.12,0,0,0,4.12-4.13V.94Z"/></g></g></svg>
